@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Get started with Fany</h1>
           <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
+            Quiero dormir ocho horas seguidas por favor :c
           </p>
         </div>
         <button
